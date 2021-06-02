@@ -1,0 +1,23 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "takes date and rutung unix and utc",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vench05/Timestamp.git"
+  },
+  "author": "Ralf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vench05/Timestamp/issues"
+  },
+  "homepage": "https://github.com/Vench05/Timestamp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
